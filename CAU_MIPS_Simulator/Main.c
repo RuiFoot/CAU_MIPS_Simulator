@@ -10,6 +10,8 @@
 #define STAK_START	0x7FF00000
 #define STAK_END	0x80000000
 
+//123456789
+
 int main() {
 
 	int z = 0;
